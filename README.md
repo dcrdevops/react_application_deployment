@@ -48,6 +48,7 @@ cd To-Do-List
 
 
 **Step 3: Create Dockerfile**
+
 Create a file named `Dockerfile`
 
 **Step 4: Build Docker Image**
